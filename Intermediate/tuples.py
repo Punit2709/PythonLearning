@@ -66,4 +66,3 @@ name, *extra,  course = tupleX
 print(name)
 print(extra) # this will be List
 print(course)
-
