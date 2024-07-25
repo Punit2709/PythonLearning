@@ -49,5 +49,9 @@ myDictNumber = {3: 4, 4:5, 5:6, 6:7}
 print(myDictNumber)
 
 myTuple = (4, 5)
+myList = [1, 2, 3]
 myDictTuple = {myTuple: 5}
 print(myDictTuple)
+
+myTupeDict = {"a": myTuple, "b": myList}
+print(myTupeDict)
