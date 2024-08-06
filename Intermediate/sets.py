@@ -69,3 +69,8 @@ print(alphaSet.issuperset(numSet))
 
 print(f"Hello i am {person['name']}, a {person['age']} year old boy who studied in {person['college']} Eng College")
 
+a = 20
+b = 23
+a = b
+b = 5
+print(a, b)
