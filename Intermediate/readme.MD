@@ -101,4 +101,4 @@ Dictionaries are unordered collections, meaning items do not have a defined orde
 # Example demonstrating unordered property
 my_dict = {'name': 'Alice', 'age': 25, 'job': 'Engineer'}
 print(my_dict)
-# Output might not be in the order: {'name': 'Alice', 'age': 25, 'job': 'Engineer' }
+# Output might not be in the order: {'name': 'Alice', 'age': 25, 'job': 'Engineer'}
